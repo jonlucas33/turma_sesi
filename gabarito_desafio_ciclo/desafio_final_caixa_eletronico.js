@@ -5,7 +5,7 @@ async function caixaEletronico() {
 
     // 1. Variáveis Iniciais
     let saldo = 1000;
-    let senhaCorreta = "9999";
+    let senhaCorreta = "9899";
     let tentativas = 3;
     let acessoLiberado = false; // Flag de controle
 
